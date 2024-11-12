@@ -1,4 +1,4 @@
-# 📊 Nasdaq Stock Miner
+# 🇺🇸 Nasdaq Stock Miner
 
 ## 📄🔍 Code Explanation
 This Python script fetches historical stock data, calculates key financial indicators (Log Returns, Volatility, RSI), and visualizes them for a specified list of U.S. stock symbols.
