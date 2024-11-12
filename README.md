@@ -28,9 +28,9 @@ It uses the formula for RSI, which compares the average gains to average losses 
 5. Data Visualization:
 
 * For each stock with data, the script generates three plots:
- * Closing Price: A line plot of daily closing prices.
- * 30-Day Rolling Volatility: A line plot showing the rolling volatility over time, which helps indicate how the stock's volatility changes.
- * Relative Strength Index (RSI): A line plot for the RSI, with horizontal lines at 70 and 30 to highlight overbought (above 70) and oversold (below 30) conditions.
+1. Closing Price: A line plot of daily closing prices.
+2. 30-Day Rolling Volatility: A line plot showing the rolling volatility over time, which helps indicate how the stock's volatility changes.
+3. Relative Strength Index (RSI): A line plot for the RSI, with horizontal lines at 70 and 30 to highlight overbought (above 70) and oversold (below 30) conditions.
 * Each plot is labeled and displayed in a 3-row subplot arrangement for a clean visual summary of each stock's performance over the past year.
 
 ## Additional Notes:
