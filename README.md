@@ -1,7 +1,20 @@
+<div align="center">
+
 # 🇺🇸 Nasdaq Stock Miner
 
-## 📄🔍 Code Explanation
-This Python script fetches historical stock data, calculates key financial indicators (Log Returns, Volatility, RSI), and visualizes them for a specified list of U.S. stock symbols.
+*This Python script fetches historical stock data, calculates key financial indicators (Log Returns, Volatility, RSI), and visualizes them for a specified list of U.S. stock symbols.*
+
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)
+![Python](https://img.shields.io/badge/python-100%25-blue)
+![Languages](https://img.shields.io/github/languages/count/yourusername/yourrepo)
+
+**Built with the tools and technologies:**
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat)
+
+
+</div>
 
 ## 🔑 Key Sections of the Code:
 1. ⚙️ Library Imports and Setup:
